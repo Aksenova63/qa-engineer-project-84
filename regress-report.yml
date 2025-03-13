@@ -23,6 +23,7 @@ test-cases:
       Сортировка товаров по производителю
     status: pass
 
+bugreports:
 - summary: |
     Товар нельзя оформить
   environment: |
