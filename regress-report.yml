@@ -13,4 +13,7 @@ test-cases:
       Сортировка товаров по производителю
     status: pass
 
-bugreports: []
+test-cases:
+  - summary: |
+      Оформление товара
+    status: fail
