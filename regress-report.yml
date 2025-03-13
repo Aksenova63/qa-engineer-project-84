@@ -1,1 +1,24 @@
+test-cases:
+  - summary: |
+      Успешное добавление товара в корзину
+    status: pass
 
+test-cases:
+  - summary: |
+      Успешное оформление заказа
+    status: pass
+
+test-cases:
+  - summary: |
+      Выбор категории товаров в каталоге магазина и сортировка товаров по выбранной категории
+    status: pass
+
+test-cases:
+  - summary: |
+      Успешное оформление заказа
+    status: pass
+
+test-cases:
+  - summary: |
+      Сортировка товаров по производителю
+    status: pass
