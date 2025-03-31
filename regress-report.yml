@@ -17,8 +17,8 @@ bugreports:
   - summary: |
       Оформление товара
     environment: |
-       Google Chrome   107.0.5304.121 (Официальная сборка) (64 бит)
-      OS Windows 10 Pro
+       Google Chrome 107.0.5304.121 (Официальная сборка) (64 бит)
+       OS Windows 10 Pro
     steps-to-reproduce: |
       1. Зайти на страницу интернет магазина https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
       2. Добавить товар в корзину
