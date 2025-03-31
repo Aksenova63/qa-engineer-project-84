@@ -5,11 +5,6 @@ test-cases:
 
 test-cases:
   - summary: |
-      Выбор категории товаров в каталоге магазина и сортировка товаров по выбранной категории
-    status: pass
-
-test-cases:
-  - summary: |
       Сортировка товаров по производителю
     status: pass
 
