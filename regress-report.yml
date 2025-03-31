@@ -1,14 +1,14 @@
-test-cases:
+test-cases1:
   - summary: |
       Успешное добавление товара в корзину
     status: pass
 
-test-cases:
+test-cases2:
   - summary: |
       Сортировка товаров по производителю
     status: pass
 
-test-cases:
+test-cases3:
   - summary: |
       Оформление товара
     status: fail
